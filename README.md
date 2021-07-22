@@ -233,7 +233,7 @@ If you do not have a public repository with working code, please do not allocate
 | 9311 | [IOTA Exporter](https://github.com/crholliday/iota-prom-exporter) |
 | 9312 | UNALLOCATED (to avoid collision with Sphinx search API) |
 | 9313 | [Cloudprober Exporter](https://github.com/google/cloudprober) |
-| 9314 | [eris Exporter](https://github.com/prologic/eris) |
+| 9314 | [eris Exporter](https://git.mills.io/prologic/eris) |
 | 9315 | [Centrifugo Exporter](https://github.com/nordicdyno/centrifugo_exporter) |
 | 9316 | [Tado Exporter](https://github.com/exporters/tado) |
 | 9317 | [Tellstick Local Exporter](https://github.com/hoihrig/prometheus-tellstick-exporter) |
